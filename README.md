@@ -35,7 +35,7 @@ Each folder includes:
 
 | Project        | Description                       | Demo |
 | -------------- | --------------------------------- | ---- |
-| architect-studio[Link](.projects/architect-studio/) | Portfolio projects in development | —    |
+| architect-studio[Link](projects/architect-studio/) | Portfolio projects in development | —    |
 
 _(Each new project will be added here with its GitHub Pages link.)_
 
