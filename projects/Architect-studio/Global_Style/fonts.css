@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "DM Sans";
+  src: url(../Fonts/DMSans-VariableFont_opsz\,wght.ttf) format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  src: url(../Fonts/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf) format("truetype");
+  font-style: normal;
+}
