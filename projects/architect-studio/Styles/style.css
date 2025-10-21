@@ -1,0 +1,476 @@
+.elementor-element-wrapper {
+  background-image: url(../assets/foto/header-back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100dvh;
+
+}
+
+.header-inner {
+  max-height: 200px;
+  padding-top: 40px;
+}
+
+.header-inner-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px 0 50px;
+}
+
+.header-inner-navbar {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 1.8em;
+  text-align: start;
+}
+
+.active {
+  border-left: 1px solid #fff;
+  padding-left: 6px;
+  transition: all 500ms ease;
+}
+
+.nav-link:hover {
+  padding-left: 6px;
+  border-left: 1px solid #fff;
+}
+
+.elementor-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* header вверху, bottom-section внизу */
+  height: 100%;
+  /* занимает всю высоту родителя */
+}
+
+.bottom-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  /* контент прижат к низу */
+  padding: 45px 50px;
+  /* можно подогнать под макет */
+}
+
+.content-inner {
+  color: #fff;
+  padding-left: 15px;
+}
+
+.content-inner h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.content-inner .content h4 {
+  font-size: 1em;
+  letter-spacing: 2.4px;
+  font-weight: 400;
+}
+
+.elementor-section {
+  margin-top: 160px;
+}
+
+.elementor-container {
+  display: flex;
+  padding: 0 96px;
+  margin-bottom: 120px;
+}
+
+.short-code ul {
+  padding-left: 19px;
+}
+
+.short-code li {
+  list-style: disc;
+}
+
+.short-code h3 {
+  text-transform: uppercase;
+  padding-bottom: 47px;
+  letter-spacing: 2.4px;
+  font-weight: 400;
+}
+
+.elementor-widget-wrap h2 {
+  font-size: 3.75em;
+  padding-bottom: 25px;
+  font-weight: 400;
+}
+
+.elementor-widget-wrap .btn {
+  margin-bottom: 80px;
+}
+
+.content-elementor-wrap {
+  max-width: 576px;
+}
+
+.content-elementor-wrap a {
+  font-family: "DM Sans" sans-serif;
+  color: #000;
+  text-decoration: underline;
+  font-weight: 400;
+  font-size: 2em;
+  transition: all 200ms ease;
+}
+
+.element-container {
+  gap: 20px;
+}
+
+.content-elementor-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.element-content-wrap h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+
+.element-content-wrap p {
+  font-size: 1.33em;
+  width: 100%;
+  max-width: 411px;
+  max-height: 76px;
+}
+
+.element-gallery-container {
+  display: flex;
+  padding: 120px 0;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+
+.info li {
+  list-style: disc;
+  padding-top: 8px;
+}
+
+.info h3,
+.content h4:not(.content h3) {
+  font-size: 1em;
+  font-weight: 400;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+}
+
+.content h3 {
+  font-size: 2em;
+  width: max-content;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+
+.content-gallery-section {
+  color: #fff;
+  background-color: #000;
+}
+
+.images {
+  width: 100%;
+  overflow: hidden;
+}
+
+.custom-swiper {
+  display: flex;
+  gap: 8;
+  width: max-content;
+  transition: transform 0.5s ease;
+  transform: translateX(25vw);
+  /* смещаем, чтобы вторая картинка была наполовину видна */
+}
+
+.custom-swiper img {
+  flex-shrink: 0;
+  height: 50vh;
+  /* каждая картинка = ширина экрана */
+  object-fit: cover;
+}
+
+.tab-elementor-widget-wrap {
+  margin: 120px 0;
+}
+
+.inner {
+  display: flex;
+  padding: 80px 40px;
+}
+
+.tab {
+  position: relative;
+  display: flex;
+  width: 100%;
+  max-width: 180px;
+}
+
+.tab span {
+  position: absolute;
+  font-size: 2em;
+  cursor: pointer;
+  padding-right: 23px;
+  right: 0;
+  top: 0;
+}
+
+.title {
+  width: 100%;
+  border-left: 1px solid #000;
+}
+
+.tab-content {
+  display: flex;
+  width: 100%;
+  align-items: flex-end;
+}
+
+.tab-content-inner p {
+  font-size: 1.33em;
+  line-height: 1.8em;
+  padding: 0 80px 28px 80px;
+}
+
+.tab-content .btn {
+  padding: 10px 10px;
+  font-size: 1.5em;
+  margin-left: 80px;
+  margin-bottom: 43px;
+}
+
+.elementor-section-wrap {
+  position: relative;
+  background-image: url(../assets/foto/class.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100dvh;
+  color: #fff;
+}
+
+.elementor-section-wrap h2 {
+  position: absolute;
+  font-size: 3em;
+  width: 100%;
+  max-width: 659px;
+  padding: 0 0 93px 96px;
+  font-weight: 400;
+  bottom: 0;
+}
+
+.elementor-flex-container {
+  display: flex;
+  padding: 160px 42px;
+}
+
+.elementor-section-wrapper {
+  background-color: #E7E7DA;
+}
+
+.member-card-wrap {
+  background-color: #D9D9CA;
+}
+
+.member-image {
+  width: 100%;
+  height: 100%;
+}
+
+.member-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.empty-member-card {
+  width: 100%;
+  max-width: 367px;
+  height: 100%;
+  max-height: 273px;
+}
+
+.member-card-wrap a {
+  font-size: 1.33em;
+}
+
+.member-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  height: 100%;
+}
+
+.member-info {
+  padding-left: 45px;
+  width: 100%;
+  max-width: max-content;
+}
+
+.member-info h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 7px;
+}
+
+.member-info h4 {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  padding-top: 50px;
+  gap: 18px;
+}
+
+.short-info {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 83px;
+}
+
+.short-content h4 {
+  font-size: 2em;
+  width: 100%;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 0 auto;
+  max-width: 811px;
+  margin-bottom: 34px;
+}
+
+.short-content h5 {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+}
+
+.double {
+  width: 32px;
+  max-width: 100%;
+  height: 2px;
+  background-color: #000000;
+  /* неактивная линия */
+  opacity: 30%;
+  transition: all 0.3s ease;
+}
+
+.double-swiper {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 67px;
+}
+
+.double-active {
+  background-color: #000;
+  width: 64px;
+  max-width: 100%;
+  max-height: 11px;
+}
+
+.elementor-gallery-container {
+  background-color: #ECE8E5;
+}
+
+.grid-inner {
+  display: grid;
+  padding: 160px 98px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.media-content h4 {
+  font-size: 1.66em;
+  font-weight: 400;
+  margin-top: 29px;
+}
+
+.media-content h5 {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+  margin-top: 18px;
+}
+
+.media-content span {
+  color: #BABABA;
+}
+
+.end-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 200px 260px;
+}
+
+.end-widget h1 {
+  font-weight: 400;
+  font-size: 3.75em;
+  text-align: center;
+}
+
+.end-widget .btn {
+  margin: 0 auto;
+  margin-top: 28px;
+}
+
+.footer-flex-inner {
+  display: flex;
+  justify-content: space-between;
+  padding: 111px 85px 10px 85px;
+}
+
+.footer-flex-inner img {
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 80px;
+  object-fit: contain;
+}
+
+.wp-flex-item {
+  display: flex;
+  gap: 9px;
+  flex-direction: column;
+}
+
+.wp-flex-item h4 {
+  font-weight: 400;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  padding-bottom: 27px;
+}
+
+.wp-flex-item a {
+  color: #000;
+  font-size: 1.25em;
+}
+
+.copyright {
+  margin: 66px 0 66px 100px;
+  color: #ADADAD;
+  font-size: 1em;
+  font-weight: 400;
+  cursor: default;
+  transition: all 200ms ease;
+}
+
+.copyright h6:hover {
+  text-decoration: underline;
+}
