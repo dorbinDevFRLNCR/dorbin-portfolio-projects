@@ -7,7 +7,7 @@ The project demonstrates clean structure, minimalistic design, and a strong visu
 
 ## 🌐 Live Demo
 
-🔗 **View on GitHub Pages:** []()
+🔗 **View on GitHub Pages:** [https://dorbindevfrlncr.github.io/dorbin-portfolio-projects/Architect-studio](https://dorbindevfrlncr.github.io/dorbin-portfolio-projects/Architect-studio)
 
 📁 **Source Code:** [Open Folder](./)
 
@@ -59,3 +59,4 @@ architect-studio/
 │ ├── /icons
 │ └── preview.jpg
 └── README.md
+
