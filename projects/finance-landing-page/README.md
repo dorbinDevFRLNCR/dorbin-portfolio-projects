@@ -104,7 +104,7 @@ To deploy manually:
 **Dorbin.dev**  
 💼 Front-End Developer  
 📍 Based in Germany  
-📫 [Email](dorbin.dev008@gmail.com)
+📫 [dorbin.dev008@gmail.com]
 
 ---
 
@@ -115,4 +115,5 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ⭐ **If you like this project, don’t forget to give it a star on GitHub!**
+
 
