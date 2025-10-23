@@ -69,7 +69,7 @@ The project emphasizes:
 
 This project is hosted on **GitHub Pages**.
 
-🔗 **Live Demo:** [Add your GitHub Pages link here]
+🔗 **Live Demo:** [Visit Site](https://dorbindevfrlncr.github.io/dorbin-portfolio-projects/projects/finance-landing-page)
 
 To deploy manually:
 
@@ -115,3 +115,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ⭐ **If you like this project, don’t forget to give it a star on GitHub!**
+
