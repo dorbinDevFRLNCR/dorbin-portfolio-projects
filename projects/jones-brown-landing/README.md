@@ -58,7 +58,7 @@ This project is a **modern, minimalistic landing page** developed with a focus o
 
 | Desktop Version                    | Mobile Version                    |
 | ---------------------------------- | --------------------------------- |
-| _(Insert desktop screenshot here)_ | _(Insert mobile screenshot here)_ |
+| [Desktop](./assets/icons/desktop.png) | [Mobile](./assets/icons/mobile.png) |
 
 ---
 
@@ -89,6 +89,7 @@ This project is distributed under the **MIT License** — you’re free to use a
 
 Developed by **dorbin.dev**  
 💡 A frontend developer passionate about elegant interfaces and precise layouts.
+
 
 
 
