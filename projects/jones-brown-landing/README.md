@@ -3,7 +3,7 @@
 A fully responsive landing page for a fictional law firm — **Jones & Brown Legal**.  
 Built to demonstrate professional structure, adaptive layout, and clean UI using only **HTML, CSS, and JS (Swiper.js)**.
 
-🔗 **[Live Demo](https://your-demo-link-here.com)**
+🔗 **[Live Demo]([https://your-demo-link-here.com](https://dorbindevfrlncr.github.io/dorbin-portfolio-projects/projects/jenes-brown-landing))**
 
 ---
 
@@ -89,3 +89,4 @@ This project is distributed under the **MIT License** — you’re free to use a
 
 Developed by **dorbin.dev**  
 💡 A frontend developer passionate about elegant interfaces and precise layouts.
+
